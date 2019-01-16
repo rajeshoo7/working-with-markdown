@@ -1,5 +1,5 @@
 # My-first-repo
-This is my first repo in the class of web apps. that explains how to get started with Markdown, a super-simple markup language for web pages
+This is my first repo in the class of web apps and that explains how to get started with Markdown, a super-simple markup language for web pages
 
 ## Links
 
@@ -61,6 +61,11 @@ dir
 
 ## Displaying Images
 
+
+##updating the repo thrird time
+-e
+-w
+-w
 It can be a bit challenging to find the correct URL for each image. 
 Generally, store your embedded images in your repo if they are original, or reference the hosted location for the image if already available on the web. 
 Images look like links with an ! in front, for example, an external image can be displayed as shown below. If desired, use a title as we did with links above.
