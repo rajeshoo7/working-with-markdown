@@ -84,8 +84,7 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 ##  About
 
-Denise Case
-
-dcase@nwmissouri.edu
+rajesh kammari
+s534844@nwmissouri.edu
 
 
