@@ -1,5 +1,5 @@
 # My-first-repo
-A short README.md that explains how to get started with Markdown, a super-simple markup language for web pages
+This is my first repo in the class of web apps. that explains how to get started with Markdown, a super-simple markup language for web pages
 
 ## Links
 
